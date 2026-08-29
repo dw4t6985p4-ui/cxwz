@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://img.heliar.top/file/1772885159972_silence.m4a';
+    var SRC = 'https://zhuanhuan.pdfcc.cn/api/download/1787761920_ba922729.m4a?uid=o3RNo3SB_atYqXj_mgaGD-_gSTiQ&history_id=300032';
     var _audio = null;
     var _unlockBound = false;
 
